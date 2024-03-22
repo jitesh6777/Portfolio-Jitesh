@@ -126,6 +126,7 @@
 
     .text-container{
         text-align: justify;
+        margin-bottom: 20px;
     }
 
 }
